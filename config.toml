@@ -1,0 +1,60 @@
+
+[waypoint]
+
+	[waypoint.waypoint_text_size]
+		waypoint_text_size = 2.0
+
+	[waypoint.waypoint_unload_when_swap_lobby]
+		waypoint_unload_when_swap_lobby = true
+
+	[waypoint.waypoint_beacon_color]
+		waypoint_beacon_color = "255,255,0,0"
+
+	[waypoint.waypoint_settings]
+		waypoint_text_size = 2.0
+		waypoint_unload_when_swapping_lobby = true
+		waypoint_unload_when_swaping_lobby = true
+		waypoint_timer = 32
+		waypoint_distance = 5
+
+	[waypoint.recieve_waypoint]
+		recieve_waypoint_from_chat = true
+		recieve_waypoint_from_chat_include_yourself = true
+
+[utils]
+
+	[utils.general]
+		falling_blocks_and_stuff = true
+		kicked_message = true
+		auto_return = true
+
+	[utils.utils]
+		falling_blocks_and_stuff = true
+		kicked_message = true
+		auto_return = false
+
+	[utils.dungeons]
+		auto_requeue_time = "100"
+		auto_requeue = false
+		"(auto_requeue)^2" = true
+
+	[utils.end]
+		default_golem_particles = 4
+		golem_particles = true
+
+	[utils.crimson_isle]
+		vanquisher_alert = false
+
+[fishing]
+
+	[fishing.fishing]
+		fishing_messages = true
+
+[waypoint_settings]
+	waypoint_distance = 1
+
+[extras]
+
+	[extras.uwu]
+		uwu = true
+

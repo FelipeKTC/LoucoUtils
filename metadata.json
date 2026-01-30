@@ -1,0 +1,8 @@
+{
+    "name": "LoucoUtils",
+    "entry": "index.js",
+    "author": "Louco",
+    "description": "/lu",
+    "version": "1.0.0",
+    "requires": ["Vigilance", "RenderLib","PogData", "BeaconBeam","FontLib","BloomCore","RenderLibv2"]
+}
