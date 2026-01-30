@@ -5,13 +5,13 @@ Personal project made for own use using mod [Chat Triggers} (https://chattrigger
 As Hypixel's recent updates to force more recent versions, this project is abandoned 
 
 ## What does it do?
-# Fishing Features
+### Fishing Features
 - Sea Creatures Alerts
-# Dungeon Features
+### Dungeon Features
 - Auto Requeue
 - Auto join after kick
 - Falling Blocks Disabler
-# General Features
+### General Features
 - Vanquisher Alert
 - Golem Particles Disabler
 - Waypoints
